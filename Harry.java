@@ -30,4 +30,7 @@ public class Harry
         // tragen Sie hier den Code ein
         return x + y;
     }
+    public void schrei(){
+        System.out.println("AHHHHHHHHHHHHHHHHHHH!");
+    }
 }
